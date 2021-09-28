@@ -7,9 +7,9 @@ This repository will document our progress throughout the academic year and it i
 
 1. [Training](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Training)
 2. Research
-3. Problem 
-4. Developing a Pipeline
-5. Solution
+3. Data and Research Tasks
+4. Pipeline and Results
+5. Conclusions
 
 
 If you are interested in participating in this new initiative please don't hesitate to contact us at gubmes@gmail.com and hope you enjoy our work! 
