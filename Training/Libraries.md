@@ -37,7 +37,9 @@ Import the pandas library and make a key word for it: pd
 
 ```
 
-### Normally we would want to be able to extract the information form tables directly into our DataFrame. The Pandas library allows us to do this through one of its functionalities. Find out what this functionality is and read the csv file named 'Training2_example' found in the resources folder. 
+### Normally we would want to be able to extract the information form tables directly into our DataFrame. The Pandas library allows us to do this through one of its functionalities. Find out what this functionality is and read the csv file named 'Training2_example' found in the resources folder or down below:
+
+[Training2_example.csv](https://github.com/SoFia2401/gubmes-health-data-analytics/files/7404392/Training2_example.csv)
 
 ```
 
