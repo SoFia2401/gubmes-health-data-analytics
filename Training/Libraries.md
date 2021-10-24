@@ -1,6 +1,6 @@
 # Libraries
 
-### To start us getting familiar with some useful data science libraries we will need to know manipulate data. For this we will be using NumPy and Pandas libraries. 
+To start us getting familiar with some useful data science libraries we will need to know manipulate data. For this we will be using NumPy and Pandas libraries. 
 
 ### Task 1: 
 
@@ -14,10 +14,11 @@ Import the pandas library and make a key word for it: pd
 ```
 
 
-### When to use which? Each of these libraries has very useful functionality but you need to know when to use them. 
+When to use which? Each of these libraries has very useful functionality but you need to know when to use them. 
 
-### Make a two-dimensional numpy array. First row will be: [1,2,3] and second row will be [4,5,6]. 
-### Using numpy functionality find the mean, minimum and max value of your array. Index the maximum value and assign it to a variable named max. Index the minimum value and assign it to a variable named min. 
+### Task 2
+Make a two-dimensional numpy array. First row will be: [1,2,3] and second row will be [4,5,6]. 
+Using numpy functionality find the mean, minimum and max value of your array. Index the maximum value and assign it to a variable named max. Index the minimum value and assign it to a variable named min. 
 
 ```
 
@@ -26,7 +27,9 @@ Import the pandas library and make a key word for it: pd
 ```
 
 
-### Create a DataFrame using the Pandas library. Your DataFrame should represent the table shown below: 
+### Task 3
+
+Create a DataFrame using the Pandas library. Your DataFrame should represent the table shown below: 
 
 [Patient_table.pdf](https://github.com/SoFia2401/gubmes-health-data-analytics/files/7404366/Patient_table.pdf)
 
@@ -37,7 +40,8 @@ Import the pandas library and make a key word for it: pd
 
 ```
 
-### Normally we would want to be able to extract the information form tables directly into our DataFrame. The Pandas library allows us to do this through one of its functionalities. Find out what this functionality is and read the csv file named 'Training2_example' found in the resources folder or down below:
+### Task 4
+Normally we would want to be able to extract the information form tables directly into our DataFrame. The Pandas library allows us to do this through one of its functionalities. Find out what this functionality is and read the csv file named 'Training2_example' found in the resources folder or down below:
 
 [Training2_example.csv](https://github.com/SoFia2401/gubmes-health-data-analytics/files/7404392/Training2_example.csv)
 
