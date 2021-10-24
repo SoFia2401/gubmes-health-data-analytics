@@ -1,0 +1,33 @@
+Patient,Age,Condition,Systolic Blood Pressure,Diastolic Blood Pressure
+A1,50,Heart Failure,140,90
+A2,20,Lung Cancer,120,80
+A3,40,Chronic Kidney Disease,120,80
+A4,33,Diabetes ,90,60
+A5,44,Alzheimers,80,40
+A6,55,Heart Failure,90,60
+A7,77,Dementia,80,40
+A8,8,Diabetes ,90,60
+A9,19,Breast Cancer,110,85
+A10,23,Sickle cell disease,144,98
+A11,45,Alzheimers,90,60
+A12,76,Dementia,80,40
+A13,86,Dementia,132,78
+A14,45,Sickle cell disease,120,67
+A15,34,Heart Failure,140,90
+B1,98,Dementia,80,40
+B2,65,Breast Cancer,90,60
+B3,77,Stroke,140,90
+B4,22,Stroke,140,90
+B5,45,Alzheimers,80,40
+B6,78,Dementia,90,60
+B7,35,Heart Failure,140,90
+B8,77,Tubercolisis,80,40
+B9,89,Dementia,90,60
+B10,32,Tubercolisis,80,40
+C1,12,Stroke,90,60
+C2,67,Alzheimers,88,56
+C3,34,Heart Failure,140,90
+C4,87,Dementia,98,79
+C5,45,Stroke,140,90
+C6,78,Alzheimers,90,60
+C7,20,Breast Cancer,120,89
