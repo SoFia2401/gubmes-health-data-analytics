@@ -32,8 +32,8 @@ for i in range(0,n):
     calculation = n*(xsummation)
     y.append(calculation)
 ```
-#INSERT CODE HERE 
-Task 4: Functions allow us to compute processes much faster without having to repeat lines of code. Using code from Task 3, we create a function called 'my_cool_function', which takes in the value x and will compute the n(x+1) if x is greater than 2 and for n repetitions where values will be stored in an array named y. This function will return y.
+
+### Task 4: Functions allow us to compute processes much faster without having to repeat lines of code. Using code from Task 3, we create a function called 'my_cool_function', which takes in the value x and will compute the n(x+1) if x is greater than 2 and for n repetitions where values will be stored in an array named y. This function will return y.
 ```
 def my_cool_function():
     x = input("Please enter an integer:")   
