@@ -4,7 +4,7 @@
 ```
 1) Text Type: str
 2) Numeric Types: int, float, complex
-3) Sequence Types:	list, tuple, range
+3) Sequence Types: list, tuple, range
 4) Mapping Type: dict
 5) Set Types: set, frozenset
 6) Boolean Type: bool
