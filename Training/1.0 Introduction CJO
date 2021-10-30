@@ -2,13 +2,13 @@
 
 ### Task 1: all data types in Python with examples.
 ```
-1) Text Type:	str
-2) Numeric Types:	int, float, complex
+1) Text Type: str
+2) Numeric Types: int, float, complex
 3) Sequence Types:	list, tuple, range
-4) Mapping Type:	dict
-5) Set Types:	set, frozenset
-6) Boolean Type:	bool
-7) Binary Types:	bytes, bytearray, memoryview
+4) Mapping Type: dict
+5) Set Types: set, frozenset
+6) Boolean Type: bool
+7) Binary Types: bytes, bytearray, memoryview
 ```
 
 ### Task 2: storing data in list, arrays and tuples and assigning them to the variables a, b and c respectively.
