@@ -1,0 +1,48 @@
+1.0 Introduction CJO
+
+### Task 1: all data types in Python with examples.
+```
+1) Text Type:	str
+2) Numeric Types:	int, float, complex
+3) Sequence Types:	list, tuple, range
+4) Mapping Type:	dict
+5) Set Types:	set, frozenset
+6) Boolean Type:	bool
+7) Binary Types:	bytes, bytearray, memoryview
+```
+
+### Task 2: storing data in list, arrays and tuples and assigning them to the variables a, b and c respectively.
+```
+a = list(("UofG", "HDA", "Project")) #using list constructor
+b = ["Github", "Python", "Training"]
+c = (True, 2021, "fun")
+```
+
+### Task 3: a statement where the summation of a variable x+1 will be calculated if the value of x is greater than 2.
+```
+x = 0
+if x<2:
+    xsummation = x + 1
+```
+Incorporating a for loop to calculate the value of n(x+1) for n repetitions where n=3 and storing each value of the for loop in an array named y.
+```
+n = 3
+y = []
+for i in range(0,n):
+    calculation = n*(xsummation)
+    y.append(calculation)
+```
+#INSERT CODE HERE 
+Task 4: Functions allow us to compute processes much faster without having to repeat lines of code. Using code from Task 3, we create a function called 'my_cool_function', which takes in the value x and will compute the n(x+1) if x is greater than 2 and for n repetitions where values will be stored in an array named y. This function will return y.
+```
+def my_cool_function():
+    x = input("Please enter an integer:")   
+    if x>2:
+        n = 3
+        y = []
+        for i in range(0,n):
+            calculation = n*(x +1)
+            y.append(calculation)
+    return y
+```
+That is my first introductory python coding assignment completed!
