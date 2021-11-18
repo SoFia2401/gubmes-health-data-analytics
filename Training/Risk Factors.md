@@ -1,0 +1,55 @@
+## 5.0 Risk Factors
+
+Analysing medical datasets is of particular interest to assess risk factors for a variety of diseases. Risk factors are lifestyle habits, medical or genetic conditions among other factors that may increase the likelihood of an individual suffering from a particular disease.
+
+Data science is particularly good at finding trends which are hidden to the human eye. This is why it is so useful to analyse this kind of medical data. 
+
+
+### Task 1: 
+
+In this Task we will be analysing a dataset from Kaggle. Kaggle has many interesting datasets and coding tasks!
+
+To start of with have a look at this dataset: [Diabetes Health Indicators Dataset] (https://www.kaggle.com/alexteboul/diabetes-health-indicators-dataset).
+
+
+Import the dataset into your workspace and explore the data ( use .head() and .info() )
+
+When exploring any dataset you will want to see the diversity within your data. Check to see how many patients in the dataset have: diabetes, pre-diabites or no diabetes)
+
+```
+
+INSERT CODE HERE 
+
+```
+
+
+### Task 2: 
+
+Now let's start to look for correlations between health indicators. For this task you will need to use a correlation matrix. Python has many visualization tools available check: [Correlation in Python] (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html) and [Seaborn Heatmap] (https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+
+Visualize the correlation between factors in a heatmap. 
+
+```
+
+INSERT CODE HERE 
+
+```
+
+### Task 3: 
+
+Now that you have visualized the correlation between different factors, you will want to find out which factor has the largest contribution (feature importance) for the condition being studied (i.e diabetes). 
+
+There are several ways to achieve this. One of these is through a Random Forest Model. Before implementing this have a look at the documentation of the [Random Forest Classifier] (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html).
+
+Now look at the following example for [feature importance] (https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html#sphx-glr-auto-examples-ensemble-plot-forest-importances-py)
+
+How can we apply this to our data? Produce a plot of feature importance. 
+
+
+```
+
+INSERT CODE HERE 
+
+```
+
+This is the end of this task. Here we begin practical health data analytics. This will give you some ideas to develop for the project.
