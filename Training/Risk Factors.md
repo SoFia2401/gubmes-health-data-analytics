@@ -9,7 +9,7 @@ Data science is particularly good at finding trends which are hidden to the huma
 
 In this Task we will be analysing a dataset from Kaggle. Kaggle has many interesting datasets and coding tasks!
 
-To start of with have a look at this dataset: [Diabetes Health Indicators Dataset] (https://www.kaggle.com/alexteboul/diabetes-health-indicators-dataset).
+To start of with have a look at this dataset: [Diabetes Health Indicators Dataset](https://www.kaggle.com/alexteboul/diabetes-health-indicators-dataset).
 
 
 Import the dataset into your workspace and explore the data ( use .head() and .info() )
@@ -25,7 +25,7 @@ INSERT CODE HERE
 
 ### Task 2: 
 
-Now let's start to look for correlations between health indicators. For this task you will need to use a correlation matrix. Python has many visualization tools available check: [Correlation in Python] (https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html) and [Seaborn Heatmap] (https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+Now let's start to look for correlations between health indicators. For this task you will need to use a correlation matrix. Python has many visualization tools available check: [Correlation in Python](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html) and [Seaborn Heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 
 Visualize the correlation between factors in a heatmap. 
 
@@ -39,9 +39,9 @@ INSERT CODE HERE
 
 Now that you have visualized the correlation between different factors, you will want to find out which factor has the largest contribution (feature importance) for the condition being studied (i.e diabetes). 
 
-There are several ways to achieve this. One of these is through a Random Forest Model. Before implementing this have a look at the documentation of the [Random Forest Classifier] (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html).
+There are several ways to achieve this. One of these is through a Random Forest Model. Before implementing this have a look at the documentation of the [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html).
 
-Now look at the following example for [feature importance] (https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html#sphx-glr-auto-examples-ensemble-plot-forest-importances-py)
+Now look at the following example for [feature importance](https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html#sphx-glr-auto-examples-ensemble-plot-forest-importances-py)
 
 How can we apply this to our data? Produce a plot of feature importance. 
 
