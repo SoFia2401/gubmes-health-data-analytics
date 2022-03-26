@@ -6,10 +6,8 @@ We are a student-led society at the University of Glasgow formed by students pas
 This repository will document our progress throughout the academic year and it is organised in the following way: 
 
 1. [Training](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Training)
-2. [Research](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Research)
-3. [Data and Research Tasks](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Data%20and%20Research%20Tasks)
-4. [Pipeline and Results](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Pipeline%20and%20Results)
-5. [Conclusions](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Conclusions)
+2. [Project Proposals](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Project%20Proposals)
+3. [Data Analysis](https://github.com/SoFia2401/gubmes-health-data-analytics/tree/main/Data%20Analysis)
 
 
 If you are interested in participating in this new initiative please don't hesitate to contact us at gubmes@gmail.com and hope you enjoy our work! 
